@@ -10,8 +10,6 @@ Welcome to my **Personal Blog Platform** – a sleek, full-stack blogging applic
 - **Powerful CMS Integration** 🗂️: Blogs are powered by **Sanity** for easy content management.
 - **Real-time Database** 💾: Built on **Supabase** for scalable and efficient backend services.
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 | Tech/Tool           | Description                                                                              | Documentation                                           |
@@ -27,7 +25,6 @@ Welcome to my **Personal Blog Platform** – a sleek, full-stack blogging applic
 | **Bun** 🍞          | A fast JavaScript runtime and package manager for blazing-fast development.              | [Bun Docs](https://bun.sh/docs)                         |
 | **Vercel** 🌐       | The best hosting platform for frontend frameworks and serverless functions.              | [Vercel Docs](https://vercel.com/docs)                  |
 
----
 
 ## 📦 Installation
 
@@ -76,13 +73,15 @@ Make sure you have the following installed on your machine:
 
 6. Visit the app at `http://localhost:3000`.
 
----
-
 ## 🎉 Hosting
 
 This project is hosted on **Vercel** for fast and seamless deployment. Check out the documentation for deploying your own Next.js project: [Vercel Docs](https://vercel.com/docs).
 
----
+## Deploy Your Own
+
+You can deploy your own version of the blog Vercel with one click:
+
+![Deploy with Vercel](https://vercel.com/button)
 
 ## 💡 Why This Stack?
 
@@ -94,13 +93,11 @@ This stack reflects my passion for building efficient, scalable, and modern web 
 - **Sanity**: Flexible content management system.
 - **Kinde**: Simplified authentication to focus on user experience.
 
----
+
 
 ## 🚀 Get Involved!
 
 Want to contribute? Fork the repo, create a feature branch, and submit a pull request!
-
----
 
 ## 📜 License
 

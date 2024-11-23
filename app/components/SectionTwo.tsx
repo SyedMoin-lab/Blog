@@ -23,6 +23,7 @@ import pr from "../../public/tech-icons/pr.svg";
 import ps from "../../public/tech-icons/ps.svg";
 import notion from "../../public/tech-icons/notion.svg";
 import micro from "../../public/tech-icons/micro.svg";
+import vercel from "../../public/vercel.svg";
 import twitter from "../../public/twitter.svg";
 import insta from "../../public/insta.svg";
 import linkedin from "../../public/linkedin.svg";
@@ -45,6 +46,7 @@ const icons = [
   ps,
   notion,
   micro,
+  vercel,
 ];
 
 const socialMedia = [

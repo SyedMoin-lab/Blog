@@ -31,8 +31,8 @@ export function Hero() {
 
       <Image
         src={me}
-        alt="A profile picture of Syed Moinuddin"
-        className="col-span-1 object-cover rounded-2xl bg-gray-100 h-auto lg:h-[500px]"
+        alt="Syed Moinuddin's profile picture, a web developer based in India"
+        className="col-span-1 object-cover rounded-2xl bg-gray-100 h-auto lg:h-[500px] w-full"
         priority
       />
     </div>

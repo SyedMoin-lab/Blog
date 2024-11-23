@@ -9,7 +9,7 @@ export function Hero() {
           Hey I&apos;m Syed Moinuddin
         </h1>
         <h1 className="text-4xl lg:text-6xl font-normal mt-3">
-          I am a web developer working and living in India
+          I&apos;m a web developer working and living in India
         </h1>
 
         <a

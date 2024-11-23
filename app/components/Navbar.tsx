@@ -22,7 +22,7 @@ export const navigationItems = [
     href: "/guestbook",
   },
   {
-    name: "Projects",
+    name: "Projects & Blog",
     href: "/projects",
   },
 ];

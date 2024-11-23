@@ -1,4 +1,5 @@
 "use server";
+// Remove unused variable
 
 import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 import prisma from "./lib/db";

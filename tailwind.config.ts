@@ -57,7 +57,13 @@ const config: Config = {
   			sm: 'calc(var(--radius) - 4px)'
   		}
   	}
+	},
+	corePlugins: {
+	  aspectRatio: false
   },
-  plugins: [require("tailwindcss-animate")],
+	plugins: [
+		require("tailwindcss-animate"),
+		require('@tailwindcss/aspect-ratio')
+	],
 };
 export default config;

@@ -25,7 +25,7 @@ export default async function ProjectsPage() {
     <section className="max-w-7xl w-full px-4 md:px-8 mx-auto">
       <h1 className="text-4xl font-semibold lg:text-5xl pt-5">Projects</h1>
       <p className="leading-7 text-muted-foreground mt-2">
-        Check out what blogs I have created
+        Check out what projects I have created
       </p>
       <div className="py-12 grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 lg:gap-12 grid-cols-1">
         {data.map((item) => (

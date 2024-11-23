@@ -1,4 +1,3 @@
-
 import { AboutSection } from "./components/AboutSection";
 import { FavoriteProjects } from "./components/FavoriteProjects";
 import { Footer } from "./components/Footer";

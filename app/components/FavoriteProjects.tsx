@@ -1,4 +1,3 @@
-
 import Image from "next/image";
 import { ProjectsCard } from "../lib/interface";
 import { client } from "../lib/sanity";

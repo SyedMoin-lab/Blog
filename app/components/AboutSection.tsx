@@ -1,4 +1,3 @@
-
 import { Card } from "@/components/ui/card";
 import me from "../../public/jan.jpg";
 import Image from "next/image";

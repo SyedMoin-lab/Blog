@@ -1,12 +1,13 @@
 import { Card } from "@/components/ui/card";
 import me from "../../public/syed.jpg";
 import Image from "next/image";
+
 export function AboutSection() {
   return (
     <div className="grid gird-cols-1 lg:grid-cols-3 gap-4 mt-10">
       <Card className="col-span-1 lg:col-span-2 border-none bg-gray-100 p-8">
         <h1 className="text-4xl lg:text-6xl">
-          Passionate versitile Web Developer who loves to create
+          Passionate versatile Web Developer who loves to create
         </h1>
         <p className="mt-4 text-muted-foreground lg:text-lg">
           I am a software engineer with a passion for creating efficient and

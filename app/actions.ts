@@ -9,12 +9,12 @@ export async function postData(formData: FormData) {
   const user = await getUser();
 
   if (!user) {
-    throw new Error("Unauthorized");
+    throw new Error("Unorthrizued");
   }
 
   const message = formData.get("message") as string;
 
-  await prisma.guestBookEntry.create({
+  const data = await prisma.guestBookEntry.create({
     data: {
       userId: user.id,
       message: message,

@@ -31,7 +31,7 @@ export function Hero() {
 
       <Image
         src={me}
-        alt="Syed Moinuddin&#39;s profile picture, a web developer based in India"
+        alt="Syed Moinuddin&apos;s profile picture, a web developer based in India"
         className="col-span-1 object-cover rounded-2xl bg-gray-100 h-auto lg:h-[500px] w-full"
         priority
       />

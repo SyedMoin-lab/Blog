@@ -97,3 +97,5 @@ This stack reflects my passion for building efficient, scalable, and modern web 
 Want to contribute? Fork the repo, create a feature branch, and submit a pull request!
 
 ## 📜 License
+
+This project and its codebase are **copyrighted** and are **not to be copied**. Any unauthorized use or reproduction is strictly prohibited. For inquiries, please contact me.
